@@ -48,4 +48,4 @@ python main.py
 - Código reutilizable
 
 ## Autor
-Proyecto académico - Gestión de Datos
+Nicolas Onell - Proyecto académico - Gestión de Datos
